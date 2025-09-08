@@ -4,7 +4,6 @@ Hier erfährest du alle meine Lieblingsbücher📚
 <html lang="de"> 
 <head>
 <meta charset="UTF-8">
-<title> Bücher Empfehlungen </title>
 </head> 
 <body> 
 <h1>📚 Meine Buchempfehlungen</h1>
@@ -18,5 +17,17 @@ Hier erfährest du alle meine Lieblingsbücher📚
 <h2>Shatter Me</h2> 
 <p><strong>Autor:</strong> Tahereh Mafi</p> 
 <p>Kurzbeschreibung: Muss man vor allem wegen Warner <3 gelesen haben ( YA,Romantig,Fantasy ) . </p> 
+<h2>The Inheritance Games</h2> 
+<p><strong>Autor:</strong> Jennifer Lynn Barnes</p> 
+<p>Kurzbeschreibung: Einem packt das Rätselfieber ( YA,Romantig,Mystery ) .</p>  
+<h2>Powerless</h2> 
+<p><strong>Autor:</strong> Lauren Robberts</p> 
+<p>Kurzbeschreibung: Gutes Storytelling ( YA,Romantig,Fantasy ) .</p>  
+<h2>Fourth Wing</h2> 
+<p><strong>Autor:</strong> Rebecca Yarros</p> 
+<p>Kurzbeschreibung: Fantasy pur ( YA,etwas Romantig,Fantasy ) .</p>  
+<h2>Once Upon A Brocken Heart</h2> 
+<p><strong>Autor:</strong> Stephanie Garber</p> 
+<p>Kurzbeschreibung: Interresante Story ( YA,Romantig,Fantasy ) .</p>  
 </body> 
 </html>
