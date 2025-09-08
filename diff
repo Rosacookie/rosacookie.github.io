@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html lang="de"> 
+<head>
+<meta charset="UTF-8">
+<title>Bücher Empfehlungen</title>
+</head> 
+<body> 
+<h1>📚 Meine Buchempfehlungen</h1>
+<p>Eine kleine Sammlung meiner Lieblingsbücher</p>
+<h2>Die Tribute von Panem</h2> 
+<p><strong>Autor:</strong> Suzanne Collins</p> 
+<p>Kurzbeschreibung: Muss man gelesen haben ( YA,Romantig,Fantasy ) .</p>  
+<h2>Twilight</h2>
+<p><strong>Autor:</strong> Stephenie Meyer</p> 
+<p>Kurzbeschreibung: Vampire, Werwölfe, Dreiecksbeziehung ( YA,Romantig,Fantasy ) .</p> 
+<h2>Shatter Me</h2> 
+<p><strong>Autor:</strong> Tahereh Mafi</p> 
+<p>Kurzbeschreibung: Muss man vor allem wegen Warner <3 gelesen haben ( YA,Romantig,Fantasy ) . </p> 
+</body> 
+</html>
