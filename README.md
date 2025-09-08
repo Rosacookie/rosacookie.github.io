@@ -1,6 +1,5 @@
 # rosacookie.github.io
 Hier erfährest du alle meine Lieblingsbücher📚
-<!DOCTYPE html> 
 <html lang="de"> 
 <head>
 <meta charset="UTF-8">
