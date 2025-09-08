@@ -4,7 +4,7 @@ Hier erfährest du alle meine Lieblingsbücher📚
 <html lang="de"> 
 <head>
 <meta charset="UTF-8">
-<title>Bücher Empfehlungen</title>
+<title> Bücher Empfehlungen </title>
 </head> 
 <body> 
 <h1>📚 Meine Buchempfehlungen</h1>
